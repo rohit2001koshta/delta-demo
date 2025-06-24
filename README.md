@@ -1,2 +1,2 @@
-# delta-demo
-This is a demo for Git &amp; Git hub class.
+Profile Card making with light and dark mode. 
+Technology : html and Css 
